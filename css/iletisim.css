@@ -1,0 +1,14 @@
+html{
+    background-color: black;
+}
+
+#navbar{
+    background-color:#184874;
+    opacity: 0.7;
+}
+
+
+
+.input-group-text{
+    display: inline-block;
+}
