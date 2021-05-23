@@ -19,3 +19,8 @@ html{
     color: white;
     text-decoration: none;
   }
+
+  #repos{
+      text-decoration: none;
+      color: white;
+  }
